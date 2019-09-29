@@ -34,7 +34,7 @@ class MyBorg(Borg):
     """
 
     def __init__(self, ids: str = None):
-        """Constructor, while instantiating this MySingleton class object
+        """Constructor, while instantiating this MyBorg class object
         we will be passing different strings to the ids and two or more
         reference objects state will be compared based on instance variable
         'ids' below.
